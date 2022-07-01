@@ -4,6 +4,8 @@
 
 This is a single loop, expandable buffer for use with the Enraged Rabbit Carrot Feeder, or other MMU.  Each buffer assembly deals with one color, you can print as many as you need.  You can print as many extensions as required to buffer any length, although only ~950mm (500mm of extensions) has been tested by me.  It is intended to be mounted to 2020 extensions, but anything should work.
 
+![Full Setup](/Images/FullSetup.jpeg?raw=true)
+
 The project is generated with a code CAD tool called CadQuery - STLs and STEP files are generated from that, but the python file is the source of truth.  To get this to work in CadQuery, you must also use the cq_warehouse extension, including a custom connector defined as "13/32-28 asme_b18.3"
 
 ### Each Buffer Requires
